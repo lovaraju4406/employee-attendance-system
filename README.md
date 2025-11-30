@@ -1,4 +1,5 @@
 # Employee Attendance System
+I'm D. Lovaraju from Vignan's Lara Institute of Technology & Sciences, 8096042387
 
 A complete, modern, real-time employee attendance tracking system built with React, Redux Toolkit, Node.js, Express, MongoDB, and Socket.IO.
 
